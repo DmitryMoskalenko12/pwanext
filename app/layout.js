@@ -1,3 +1,5 @@
+import './globals.css';
+
 const APP_NAME = "test";
 const APP_DEFAULT_TITLE = "test test";
 const APP_TITLE_TEMPLATE = "%s - PWA App";
